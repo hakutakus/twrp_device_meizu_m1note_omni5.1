@@ -69,8 +69,7 @@ TW_MTP_DEVICE := /dev/mtp_usb
 
 TW_THEME := portrait_hdpi
 TW_EXTRA_LANGUAGES := true
-#cp bootable/recovery/gui/theme/extra-languages/languages/zh_CN.xml bootable/recovery/gui/theme/common/languages/cn.xml
-TW_DEFAULT_LANGUAGE := cn
+TW_DEFAULT_LANGUAGE := zh_CN
 
 # Storages
 BOARD_HAS_NO_MISC_PARTITION := true
